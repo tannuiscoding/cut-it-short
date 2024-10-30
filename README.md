@@ -40,15 +40,15 @@ To set up and run the application locally, follow these steps:
    cd cut-it-short
 
 2. Install the required libraries
-
+	```bash
 	pip install flask requests
 	
 3. Obtain an API key from Hugging Face and replace your key here in app.py with your API key
-	
+	```bash
 	headers = {"Authorization": f"Bearer your_key_here"}
 	
 4. Run the application
-
+	```bash
 	python app.py
 	
 5. Open a browser and navigate to http://127.0.0.1:5000 to access the application.
