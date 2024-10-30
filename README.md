@@ -2,7 +2,7 @@
 
 **Cut It Short** is a web application that summarizes any given text data, providing concise summaries of lengthy content. This application uses **Flask** for backend processing and integrates with Hugging Face's summarization API for generating summaries.
 
-![Cut It Short Logo](static/images/logo.png)
+![Cut It Short](static/images/output.png)
 
 ---
 
